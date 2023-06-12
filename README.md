@@ -1,2 +1,2 @@
 # KorshunToolsLegacy
-Documentation: https://www.spigotmc.org/resources/korshuntools.110417/
+Documentation: https://www.spigotmc.org/resources/korshuntoolslegacy.110434/
