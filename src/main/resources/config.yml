@@ -1,0 +1,24 @@
+fly-enable-material: LIME_SHULKER_BOX
+fly-disable-material: RED_SHULKER_BOX
+fly-enable-displayname: "&aВключено"
+fly-disable-displayname: "&cВыключено"
+commands:
+  fly: true
+  checkfly: true
+  checkhealth: true
+  checkfood: true
+  sethealth: true
+  setfood: true
+messages:
+  no-permissions: "&cНе достаточно прав!"
+  player-not-found: "&cИгрок не найден!"
+  fly-enable: "&aРежим полета включен!"
+  fly-disable: "&cРежим полета выключен!"
+  sender-not-player: "&cЭту команду могут выполнять только игроки!"
+  health-level-big: "&cМаксимальный уровень здоровья: 20"
+  checkfly-menu-title: "Проверка режима полета"
+  target-health-level: "&a{health_level}"
+  target-food-level: "&a{food_level}"
+  command-disable: "&cКоманда отключена"
+  dual-versions-enabled: "&cВы включили две версии одновременно"
+  dual-versions-disabled: "&cВы выключили две версии одновременно"
